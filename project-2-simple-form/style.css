@@ -1,0 +1,55 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+header {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#competition {
+    font-size: 20px;
+    font-style: bold;
+    margin-bottom: 20px;
+}
+
+.row{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.col-half{
+    display: inline-block;
+    width: 49%;
+}
+
+.col-full{
+    display: inline-block;
+    width: 100%;
+}
+
+.col-full .inputTextBox{
+    width: 96%;
+    padding: 10px;
+}
+
+.col-half .inputTextBox{
+    width: 95%;
+    padding: 10px;
+}
+
+.col-full .inputTextArea{
+    width: 96%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+#submitBtn{
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.requiredField{
+    color: red;
+}

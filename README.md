@@ -1,1 +1,1 @@
-# html_css_js_projects
+# This repo contains my HTML, CSS, and Javascript projects.

@@ -1,4 +1,15 @@
 
+/**
+ * Problem
+ * 
+1. Store your name in a variable
+2. Store your birth year in a variable.
+3. Store a future year in a variable.
+4. Calculate your 2 possible ages for that year based on the stored values.
+For example, if you were born in 1988, then in 2026 you'll be either 37 or 38, depending on what month it is in 2026.
+Output them to the screen like so: "I will be either NN or NN in YYYY", substituting the values.
+ */
+
 // Store your name in a variable
 let name = "Folau"
 

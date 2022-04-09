@@ -1,3 +1,11 @@
+/**
+ * Problem
+1. Store your current age into a variable.
+2. Store a maximum age into a variable.
+3. Store an estimated amount per day (as a number).
+4. Calculate how many you would eat total for the rest of your life.
+5. Output the result to the screen like so: "You will need NN to last you until the ripe old age of X".
+ */
 
 // Store your current age into a variable.
 let age = 35

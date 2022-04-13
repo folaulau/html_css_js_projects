@@ -20,7 +20,9 @@ let numberOfMealsPerDay = 3
 
 let numberOfDaysPerYear = 365
 
+let numberOfYearsToLive = maxAge - age;
+
 // get all number of meals you are going to have til you die
-let totalNumberOfMeals = numberOfMealsPerDay * numberOfDaysPerYear * maxAge
+let totalNumberOfMeals = numberOfMealsPerDay * numberOfDaysPerYear * numberOfYearsToLive
 
 console.log("You will need "+totalNumberOfMeals+" meals to last you until the ripe old age of "+maxAge)
